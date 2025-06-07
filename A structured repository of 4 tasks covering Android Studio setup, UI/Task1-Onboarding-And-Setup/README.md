@@ -15,7 +15,8 @@ This folder contains the deliverables for **Task 1** of the ApexPlanet 45-Day An
 - This README file
 
  🔗 Useful Links
-- 🔗 [LinkedIn Video (Task 1)](PASTE_YOUR_LINKEDIN_VIDEO_LINK_HERE)
+- 🔗 [LinkedIn Video (Task 1)](https://www.linkedin.com/posts/yuva-durga-964054314_androiddevelopment-internship-github-activity-7337035209885847553-NCgT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-9tVwBSqjDFcmrDGymH3Cz0z4RazAqbrk)
+  
 - 🔗 [Main Internship Repository](https://github.com/YuvaDurga-tech/apexplanet-android-internship)
 
  📅 Duration
